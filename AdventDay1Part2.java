@@ -7,7 +7,7 @@ public class AdventDay1Part2
         int sum = 0;
         try {         
                
-                BufferedReader bf = new BufferedReader(new FileReader("aoc_day1.txt"));
+                BufferedReader bf = new BufferedReader(new FileReader("input.txt"));
                 String line;
                 int i;
                 int no1 = 0, no2 = 0;
